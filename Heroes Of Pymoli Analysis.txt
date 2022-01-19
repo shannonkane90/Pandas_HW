@@ -1,0 +1,9 @@
+﻿Heroes Of Pymoli Analysis
+
+
+
+
+Based on the analyzed data, we can conclude the following:
+* The majority of players are males in their teens and twenties
+* While most players are male, females tend to purchase, on average, more items and more expensive items
+* The Final Critic is both the most popular and the most profitable item
